@@ -1,0 +1,18 @@
+{
+  "name": "gocardless-web-scraper",
+  "version": "0.0.1",
+  "description": "Simple web scraper for GoCardless",
+  "main": "main.js",
+  "author": "Ben Brown",
+  "dependencies": {
+    "async": "^2.1.4",
+    "cheerio": "latest",
+    "express": "latest",
+    "open": "0.0.5",
+    "request": "latest"
+  },
+  "devDependencies": {
+    "eslint": "^3.4.0",
+    "eslint-config-airbnb-base": "^5.0.3"
+  }
+}
